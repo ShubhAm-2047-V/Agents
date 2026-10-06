@@ -1,0 +1,7 @@
+google-genai>=0.1.0
+pycaw>=20240101
+screen-brightness-control>=0.23.0
+comtypes
+psutil
+colorama
+winsdk>=1.0.0

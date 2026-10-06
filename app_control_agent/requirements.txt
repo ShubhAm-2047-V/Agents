@@ -1,0 +1,4 @@
+google-genai
+psutil
+pygetwindow
+pywin32

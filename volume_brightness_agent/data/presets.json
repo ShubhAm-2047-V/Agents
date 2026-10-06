@@ -1,0 +1,90 @@
+{
+  "movie": {
+    "brightness": 35,
+    "volume": 90,
+    "mute": false,
+    "description": "Dim screen and cinematic audio",
+    "icon": "\ud83c\udfac",
+    "color": "#f59e0b"
+  },
+  "night": {
+    "brightness": 15,
+    "volume": 20,
+    "mute": false,
+    "description": "Ultra-low screen glare and quiet sound for late night",
+    "icon": "\ud83c\udf19",
+    "color": "#6366f1"
+  },
+  "gaming": {
+    "brightness": 75,
+    "volume": 90,
+    "mute": false,
+    "description": "Gaming mode",
+    "icon": "\ud83c\udfae",
+    "color": "#ec4899"
+  },
+  "study": {
+    "brightness": 45,
+    "volume": 15,
+    "mute": false,
+    "description": "Balanced gentle screen with low background study music",
+    "icon": "\ud83d\udcda",
+    "color": "#10b981"
+  },
+  "focus": {
+    "brightness": 55,
+    "volume": 30,
+    "mute": false,
+    "description": "Balanced work productivity lighting and low sound",
+    "icon": "\ud83c\udfaf",
+    "color": "#06b6d4"
+  },
+  "sleep": {
+    "brightness": 0,
+    "volume": 0,
+    "mute": true,
+    "description": "Minimal brightness and full silence for sleeping",
+    "icon": "\ud83d\udca4",
+    "color": "#8b5cf6"
+  },
+  "work": {
+    "brightness": 65,
+    "volume": 40,
+    "mute": false,
+    "description": "Crisp daytime brightness for coding and development",
+    "icon": "\ud83d\udcbc",
+    "color": "#3b82f6"
+  },
+  "daylight": {
+    "brightness": 100,
+    "volume": 80,
+    "mute": false,
+    "description": "Full brightness to combat direct sun and ambient glare",
+    "icon": "\u2600\ufe0f",
+    "color": "#eab308"
+  },
+  "presentation": {
+    "brightness": 100,
+    "volume": 65,
+    "mute": false,
+    "description": "High brightness for external screens/projectors",
+    "icon": "\ud83d\udcfd\ufe0f",
+    "color": "#14b8a6"
+  },
+  "default": {
+    "brightness": 60,
+    "volume": 50,
+    "mute": false,
+    "description": "Standard everyday default settings",
+    "icon": "\u2699\ufe0f",
+    "color": "#64748b"
+  },
+  "normal": {
+    "brightness": 20,
+    "volume": 75,
+    "mute": false,
+    "description": "Normal",
+    "icon": "\u2728",
+    "color": "#06b6d4"
+  }
+}

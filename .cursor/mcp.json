@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "jetro": {
+      "type": "stdio",
+      "command": "C:\\Users\\SHUBHAM\\.jetro\\runtime\\node-win32-x64.exe",
+      "args": [
+        "C:\\Users\\SHUBHAM\\.jetro\\mcp-server\\index.js"
+      ],
+      "env": {
+        "JET_WORKSPACE": "e:\\Agent's",
+        "JET_API_URL": "https://api.jetro.ai",
+        "PATH": "C:\\Users\\SHUBHAM\\.jetro\\runtime;C:\\Users\\SHUBHAM\\AppData\\Local\\Programs\\Python\\Python314\\Scripts\\;C:\\Users\\SHUBHAM\\AppData\\Local\\Programs\\Python\\Python314\\;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v11.8\\bin;C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v11.8\\libnvvp;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\dotnet\\;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR;C:\\MinGW\\bin;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\Tesseract-OCR;E:\\flutter\\bin;C:\\Program Files\\Eclipse Adoptium\\jdk-17.0.17.10-hotspot\\bin;C:\\ProgramData\\chocolatey\\bin;C:\\Program Files\\MongoDB\\Server\\7.0\\bin;C:\\Program Files\\Go\\bin;D:\\Git\\cmd;D:\\New Folder\\;C:\\Program Files\\WSL\\;C:\\Users\\SHUBHAM\\.dotnet;C:\\Users\\SHUBHAM\\AppData\\Local\\Programs\\Python\\Python313;C:\\Users\\SHUBHAM\\AppData\\Local\\Programs\\Python\\Python313\\Scripts;C:\\Users\\SHUBHAM\\AppData\\Local\\Programs\\Python\\Python314\\Scripts\\;C:\\Users\\SHUBHAM\\AppData\\Local\\Programs\\Python\\Python314\\;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v11.8\\bin;C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v11.8\\libnvvp;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\dotnet\\;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR;C:\\MinGW\\bin;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\Tesseract-OCR;E:\\flutter\\bin;C:\\Program Files\\Eclipse Adoptium\\jdk-17.0.17.10-hotspot\\bin;C:\\ProgramData\\chocolatey\\bin;C:\\Program Files\\MongoDB\\Server\\7.0\\bin;C:\\Program Files\\G"
+      }
+    }
+  }
+}

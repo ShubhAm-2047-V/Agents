@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": "2026-09-27 12:13:47",
+    "type": "ask",
+    "query": "https://shubh-deep-labs.vercel.app/ this is my website url so save it",
+    "summary": "\ud83d\udccc DIRECT ANSWER\nYour website URL, `https://shubh-deep-labs.vercel.app/`, is for ShubDeep Labs, a premier global software development company. It specializes in delivering custom we",
+    "pdf_path": null,
+    "html_path": null
+  },
+  {
+    "timestamp": "2026-09-27 12:12:50",
+    "type": "ask",
+    "query": "so this is my website so if i tell you open my website",
+    "summary": "\ud83d\udccc DIRECT ANSWER\nTo open your website from the command line, you need its full web address (URL). You can then use platform-specific commands such as `xdg-open <URL>` on Linux, `ope",
+    "pdf_path": null,
+    "html_path": null
+  },
+  {
+    "timestamp": "2026-09-27 12:05:38",
+    "type": "ask",
+    "query": "so this is my own website so save it and when i say open my website then yiu should open this",
+    "summary": "\ud83d\udccc DIRECT ANSWER\nTo \"save\" your website's address for easy recall and \"open\" it on command, you can bookmark its URL in your web browser or create a simple alias in your command-lin",
+    "pdf_path": null,
+    "html_path": null
+  },
+  {
+    "timestamp": "2026-09-25 18:53:38",
+    "type": "speedtest",
+    "query": "speedtest",
+    "summary": "\ud83d\ude80 NETWORK & SPEED DIAGNOSTIC\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\ud83d\udce1 Ping to Cloudflare (1.1.1.1): 151.5 ms\n\ud83d\udce1 Ping to Google (8.8.8.8): 208.4 ms\n\n\u23f3 Testing d",
+    "pdf_path": null,
+    "html_path": null
+  },
+  {
+    "timestamp": "2026-09-25 18:31:23",
+    "type": "ask",
+    "query": "close it",
+    "summary": "\ud83d\udccc DIRECT ANSWER\n\"Close it\" refers to the action of terminating an operation, shutting down a device, or ending a window or application. The phrase also appears as part of various p",
+    "pdf_path": null,
+    "html_path": null
+  },
+  {
+    "timestamp": "2026-09-25 17:57:55",
+    "type": "factcheck",
+    "query": "water boils at 100C",
+    "summary": "\ud83d\udee1\ufe0f FACT-CHECK VERDICT: MOSTLY TRUE\n\n\ud83d\udccc EXECUTIVE SUMMARY\nThe claim that water boils at 100 degrees Celsius is mostly true, but it is accurate only under specific conditions. Pure water boils at 100\u00b0C w",
+    "pdf_path": null,
+    "html_path": null
+  }
+]

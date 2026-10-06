@@ -1,0 +1,6 @@
+google-genai
+ddgs
+requests
+beautifulsoup4
+reportlab
+pyttsx3
